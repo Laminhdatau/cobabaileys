@@ -1,0 +1,7 @@
+error: Error starting socket for session 123: Cannot read properties of undefined (reading '123') {"timestamp":"2023-11-11T08:57:49.037Z"}
+error: Error initializing session: Cannot read properties of undefined (reading '123') {"timestamp":"2023-11-11T08:57:49.038Z"}
+error: Error in socketController.init: {"timestamp":"2023-11-11T08:57:49.039Z"}
+error: Error starting socket for session 123: Cannot read properties of undefined (reading '123') {"timestamp":"2023-11-11T08:58:01.477Z"}
+error: Error initializing session: Cannot read properties of undefined (reading '123') {"timestamp":"2023-11-11T08:58:01.490Z"}
+error: Error in socketController.init: {"timestamp":"2023-11-11T08:58:01.494Z"}
+error: Error in socketController.createSession: {"timestamp":"2023-11-11T08:58:01.776Z"}
